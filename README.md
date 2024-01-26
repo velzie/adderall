@@ -3,7 +3,8 @@
 perc 30 for firefox
 
 replaces the tab bar with a custom vertical tab tree implementation, adds true splitscreen, various other ui tweaks
-![image](https://github.com/CoolElectronics/adderall/assets/58010778/590c3c66-2825-4245-be5b-17de3b2011c1)
+![image](https://github.com/CoolElectronics/adderall/assets/58010778/ad689119-809f-4c40-b081-4c2ea4e5462a)
+
 
 # Installation
 - get fx-autoconfig from [here](https://github.com/MrOtherGuy/fx-autoconfig)
